@@ -1,0 +1,5 @@
+AB45;Proton Exora;SUV;58900.00;Malaysia;2010-12-01
+NPC89;Proton Saga;SUV;98800.00;Malaysia;2011-01-02
+JK45;Proton Iriz;SUV;42800.00;Malaysia;2015-03-12
+GG335;Proton Persona;SUV;47800.00;Malaysia;2016-10-02
+JB49;Proton X70;SUV;34800.00;Malaysia;2018-03-12
